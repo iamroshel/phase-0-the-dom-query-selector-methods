@@ -1,4 +1,4 @@
-# JavaScript Query Selector Methods c
+# JavaScript Query Selector Methods c c
 
 ## Learning Goals
 
